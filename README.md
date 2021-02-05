@@ -1,11 +1,9 @@
 # Fortune Coffee App
 
-Description: 
+Everyone is curious about what the future holds. Our fortune teller provides you with free daily fortunes all from the palm of your hand. Our app has many unique features from coffee fortune telling to, face and palm readings to a mind reader magic globe and horoscopes.
 
-## Software Dependencies
-
-
-
+## Google Playstore link 
+https://play.google.com/store/apps/details?id=com.redko.fortunecoffee&hl=en&gl=US
 
 ## How to Start App
 
